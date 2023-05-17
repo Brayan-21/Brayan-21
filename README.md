@@ -1,8 +1,5 @@
 ## Hii! I'm Brayan Christian - FullStack Developer 🧑🏻‍💻
 
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brayan-21&layout=compact&theme=transparent)
-
 ##
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Brayan-21&theme=dracula)
