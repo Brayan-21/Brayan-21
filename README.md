@@ -1,11 +1,5 @@
 ## Hii! I'm Brayan Christian - FullStack Developer 🧑🏻‍💻
 
-##
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Brayan-21&theme=dracula)
-
-##
-
 <div style="display: inline_block"><br>
   
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
